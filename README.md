@@ -41,4 +41,8 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arunima1507/LeetCode_DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/arunima1507/LeetCode_DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
