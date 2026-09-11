@@ -45,4 +45,20 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arunima1507/LeetCode_DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
