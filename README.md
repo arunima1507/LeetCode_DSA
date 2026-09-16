@@ -71,6 +71,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
@@ -85,6 +86,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +99,12 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
