@@ -50,11 +50,13 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0835-image-overlap/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -67,10 +69,12 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -107,4 +111,8 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
