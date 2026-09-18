@@ -13,10 +13,10 @@ public:
             while (sum > target) {
                 sum -= arr[left++];
             }
-            if (sum == target) {
-                int len = right - left + 1;
+            if (sum==target) {
+                int len=right-left+1;
                 if (left > 0 && best[left - 1] != INF) ans = min(ans, len + best[left - 1]);
-                bestLen = min(bestLen, len);
+                bestLen = min(bestLen,len);
             }
             best[right] = bestLen;
         }
