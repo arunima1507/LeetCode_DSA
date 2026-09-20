@@ -47,6 +47,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0008-string-to-integer-atoi](https://github.com/arunima1507/LeetCode_DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/arunima1507/LeetCode_DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +122,8 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/arunima1507/LeetCode_DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
