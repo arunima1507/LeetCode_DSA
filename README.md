@@ -55,6 +55,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/arunima1507/LeetCode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/arunima1507/LeetCode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0836-rectangle-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arunima1507/LeetCode_DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/arunima1507/LeetCode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
