@@ -58,6 +58,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [3483-unique-3-digit-even-numbers](https://github.com/arunima1507/LeetCode_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/arunima1507/LeetCode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arunima1507/LeetCode_DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/arunima1507/LeetCode_DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arunima1507/LeetCode_DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
