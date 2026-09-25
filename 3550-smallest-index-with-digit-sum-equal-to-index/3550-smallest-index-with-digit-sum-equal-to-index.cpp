@@ -12,6 +12,7 @@ public:
             if (sum == i)
                 return i;
         }
+
         return -1;
     }
 };
