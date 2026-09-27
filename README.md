@@ -46,6 +46,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arunima1507/LeetCode_DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arunima1507/LeetCode_DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -156,8 +157,13 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
