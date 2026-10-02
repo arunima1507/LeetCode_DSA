@@ -46,6 +46,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arunima1507/LeetCode_DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -93,6 +94,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arunima1507/LeetCode_DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -158,6 +160,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -175,6 +178,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
