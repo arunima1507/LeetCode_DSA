@@ -59,6 +59,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0835-image-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arunima1507/LeetCode_DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -72,6 +73,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -106,6 +108,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -187,4 +190,16 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arunima1507/LeetCode_DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
