@@ -60,6 +60,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0835-image-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0835-image-overlap/) | Medium |
@@ -103,6 +104,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arunima1507/LeetCode_DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arunima1507/LeetCode_DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
