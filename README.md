@@ -61,6 +61,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0835-image-overlap](https://github.com/arunima1507/LeetCode_DSA/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arunima1507/LeetCode_DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -75,6 +76,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -111,6 +113,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arunima1507/LeetCode_DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -201,8 +204,10 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
