@@ -48,6 +48,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0020-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arunima1507/LeetCode_DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -178,6 +179,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
