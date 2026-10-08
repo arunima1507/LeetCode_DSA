@@ -61,6 +61,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/arunima1507/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -117,6 +118,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/arunima1507/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/arunima1507/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -145,6 +147,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/arunima1507/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
