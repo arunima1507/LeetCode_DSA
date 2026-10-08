@@ -50,6 +50,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0032-longest-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arunima1507/LeetCode_DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -190,6 +191,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0020-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arunima1507/LeetCode_DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/arunima1507/LeetCode_DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -206,6 +208,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | [0022-generate-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arunima1507/LeetCode_DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arunima1507/LeetCode_DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunima1507/LeetCode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
