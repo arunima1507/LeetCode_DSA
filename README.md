@@ -63,6 +63,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/arunima1507/LeetCode_DSA/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/arunima1507/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/arunima1507/LeetCode_DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -149,6 +150,7 @@ This repository is continuously updated as I solve and revise additional LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/arunima1507/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/arunima1507/LeetCode_DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/arunima1507/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arunima1507/LeetCode_DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
